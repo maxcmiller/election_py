@@ -1,0 +1,41 @@
+{
+    "date": "09/01/2017",
+    "type": "By-election",
+    "name": "Division of Dickson",
+    "enrolled": 12,
+    "candidates": [
+        {
+            "id": 1,
+            "name": "Peter Dutton",
+            "party": "Liberal Party of Australia"
+        },
+        {
+            "id": 2,
+            "name": "Linda Lavarch",
+            "party": "Australian Labor Party"
+        },
+        {
+            "id": 3,
+            "name": "Michael Berkman",
+            "party": "Australian Greens"
+        },
+        {
+            "id": 4,
+            "name": "Max Miller",
+            "party": "Independent"
+        }
+    ],
+    "ballots": [
+        [2, 3, 4, 1],
+        [1, 4, 2, 3],
+        [3, 4, 2, 1],
+        [4, 3, 2, 1],
+        [1, 4, 3, 2],
+        [2, 1, 3, 4],
+        [3, 2, 1, 4],
+        [1, 3, 4, 2],
+        [2, 4, 3, 1],
+        [1, 3, 2, 4],
+        [2, 1, 4, 3]
+    ]
+}
